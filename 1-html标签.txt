@@ -1,0 +1,8 @@
+HTML
+1.标签（<a></a>;<br>)
+2.块级标签和行内标签
+3.块级标签：h，p，div，ul，ol，dl
+4.行内标签：strong/em、<img>、<a>、<span>
+5.特殊符号：&lt；&gt；&nbsp；&emsp；
+6.table
+7.form
